@@ -6,8 +6,30 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 wc-dhcp59d089:assignment2 cole$ 
 
-2.
+2. 
 There are 15 total comitts so far on this repository. The git command used to get this information is git log.
 
 3. 
+My README file was modified 19 hours ago by myself. The git command used to get this information is git blame
 
+4. 
+Branching in a repository aids in fixing bugs, adds new effective updates, and incorporates the newly made versions after have being approved.
+
+5. 
+The difference between git log and git status is that git log presents already committed lists. It also allows the user to list the programs history, organize it, and locate any area needing modifications. git status on the other hand, lets the user oversee the staging area as well as the working directory, while git log is constrained to the committed history only.
+
+6. 
+In order to locate commits for a singular file, we would use the git show command, which shows the modifications for that particular commit, in this case the "Vehicle.h" file.
+
+7. 
+In order to see the commits whose commit message contains the word “file”?, I would use the git grep command. This command allows the user to sift through the word content of the commits.
+
+8. 
+In object-oriented programming, inheritance is the operation where one object gains the full properties of a different object, whereas polymorphism has the capability of on possessing several forms at once. Polymorphism permits one interface to be used for several in class activities. 
+
+9. 
+In the Dictator and Lieutenants workflow, only the dictator is permitted to commit, and he oversees over all the other managers (Lieutenants). The dictator pulls modifications from the lieutenants, and the lieutenants pull modifications from the other workers. 
+In the Integration Manager workflow, only one person commits, but several users work together using forks. It is a much more cooperative environment.
+
+10. 
+The Dictator and Lieutenants workflow is very advantageous for big projects. When working on a team of 100 developers, there are simply too many people for one person to throughly examine the entirety of the code. The Dictator and Lieutenants workflow appoints separate programmers to assist in the revising process, without allowing them to edit the main repository.
