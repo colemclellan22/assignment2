@@ -1,3 +1,6 @@
+Completion Date For Git Lab Tutorials:   10-12-21
+Setup Date For Github Account:   10-12-21
+
 1. 
 wc-dhcp59d089:assignment2 cole$ git status
 On branch master
