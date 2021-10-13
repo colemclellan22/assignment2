@@ -7,4 +7,7 @@ nothing to commit, working tree clean
 wc-dhcp59d089:assignment2 cole$ 
 
 2.
+There are 15 total comitts so far on this repository. The git command used to get this information is git log.
+
+3. 
 
